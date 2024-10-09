@@ -10,7 +10,7 @@ This is a video-language model where the dual-tower structure of the visual extr
 
 1.Load our public image on the AutoDL cloud server:
 
-
+https://www.codewithgpu.com/i/motern88/HiLight/HiLight_VideoLanguageModel
 
 2.Make sure model weight exit in /root/autodl-tmp/ .
 
