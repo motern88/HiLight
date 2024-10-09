@@ -1,6 +1,6 @@
 #### HiLight 
 
-![HiLight模型结构图](asset\HiLight模型结构图.jpg)
+![HiLight模型结构图](./asset/HiLight模型结构图.jpg)
 
 [[2407.07325\] HiLight: Technical Report on the Motern AI Video Language Model (arxiv.org)](https://arxiv.org/abs/2407.07325)
 
