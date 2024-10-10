@@ -1,4 +1,4 @@
-#### HiLight：Video Language Model with Dual Vision Encoders
+## HiLight：Video Language Model with Dual Vision Encoders
 
 ![HiLight模型结构图](./asset/HiLight模型结构图.jpg)
 
